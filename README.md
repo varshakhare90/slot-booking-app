@@ -20,5 +20,5 @@ This is a simple React app that allows users to schedule appointments.
 - React
 - React Icons
 - React Bootstrap
-
+- Moment
 
